@@ -1,7 +1,7 @@
 # Hyprland dotfiles
 
 Based on [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots),
-with my minor modifications.
+with a couple minor modifications.
 
 - `Super + C` rebinded from opening `VSCode` to `neovim`.
 - `Super + H` opens the audio device selector
